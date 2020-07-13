@@ -10,7 +10,7 @@ You can check out all the things that I've made [here](https://edazpotato.github
 
 If you want to get in touch for something, the fastest way to reach me is to DM me on discord (`Edaz#5671`), but you can also email me at [edazpotato@gmail.com](mailto:edazpotato@gmail.com "click to email me")
 
-
+---
 
 #### ⚠️❗⚠️ SOMETHING BROKE!!!11!
 
