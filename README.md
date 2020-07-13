@@ -9,6 +9,10 @@ You can check out all the things that I've made [here](https://edazpotato.github
 ### 📫 Contact me
 
 If you want to get in touch for something, the fastest way to reach me is to DM me on discord (`Edaz#5671`), but you can also email me at [edazpotato@gmail.com](mailto:edazpotato@gmail.com "click to email me")
+
+#### ⚠️❗⚠️ SOMETHING BROKE!!!11!
+
+Sorry to hear that. If you know what went wrong, open an issue in that project's repo. Otherwise, join my [discord server](https://discord.gg/XJvC9ks "click to join my discord server") to get help.
 <!--
 **edazpotato/edazpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
