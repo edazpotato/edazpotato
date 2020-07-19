@@ -12,7 +12,7 @@ If you want to get in touch for something, the fastest way to reach me is to DM 
 
 ---
 
-#### ⚠️❗⚠️ SOMETHING BROKE!!!11!
+#### ⚠️❗⚠️ HELP SOMETHING BROKE!!!11!
 
 Sorry to hear that. If you know what went wrong, please open an issue in that project's repo. Otherwise, join my [discord server](https://discord.gg/XJvC9ks "click to join my discord server") to get help.
 <!--
