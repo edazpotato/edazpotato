@@ -1,20 +1,18 @@
-## 👋 Hello there, i'm Edaz
+## 👋 Hey there, i'm Edaz
 
-I have made a bunch of stuff on github, and am working on some more *secret* projects at the moment.
-
-Things that I have made include some discord bots (POTATO, UZX), websites ([personal site](https://edazpotato.github.io/ "click to view my personal website"), various commisions) and other [random stuff](https://edazpotato.github.io/junk/ "click to view some random stuff i've made")
+I'm student who's intrested in technology and art. I've made a bunch of websites and discord bots!
 
 You can check out all the things that I've made [here](https://edazpotato.github.io/portfolio/ "Click to view my project portfolio")
 
 ### 📫 Contact me
 
-If you want to get in touch for something, the fastest way to reach me is to DM me on discord (`Edaz#5671`), but you can also email me at [edazpotato@gmail.com](mailto:edazpotato@gmail.com "click to email me")
+If you want to get in touch for something, the fastest way to reach me via discord (`Edaz#5671`), but you can also email me at [edazpotato@gmail.com](mailto:edazpotato@gmail.com "click to email me")
 
 ---
 
 #### ⚠️❗⚠️ HELP SOMETHING BROKE!!!11!
 
-Sorry to hear that. If you know what went wrong, please open an issue in that project's repo. Otherwise, join my [discord server](https://discord.gg/XJvC9ks "click to join my discord server") to get help.
+Sorry to hear that. If you know what went wrong, please consider opening an issue in that project's repository. Otherwise, you can join my [discord server](https://discord.gg/XJvC9ks "click to join my discord server") to get more help.
 <!--
 **edazpotato/edazpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
