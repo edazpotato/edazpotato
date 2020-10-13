@@ -1,18 +1,24 @@
-## 👋 Hey there, i'm Edaz
+### Hi there 👋
 
-I'm student who's intrested in technology and art. I've made a bunch of websites and discord bots!
+My name is Edaz and I am a student who's intrested in programming
 
-You can check out all the things that I've made [here](https://edazpotato.github.io/portfolio/ "Click to view my project portfolio")
+- 🔭 I’m currently working on
+  * A website for my school's commerce class.
 
-### 📫 Contact me
+- 🌱 I’m currently learning
+  * React. I'm using it with Material-ui in the project above.
+  
+- 📫 How to reach me:
 
-If you want to get in touch for something, the fastest way to reach me via discord (`Edaz#5671`), but you can also email me at [edazpotato@gmail.com](mailto:edazpotato@gmail.com "click to email me")
-
----
-
-#### ⚠️❗⚠️ HELP SOMETHING BROKE!!!11!
-
-Sorry to hear that. If you know what went wrong, please consider opening an issue in that project's repository. Otherwise, you can join my [discord server](https://discord.gg/XJvC9ks "click to join my discord server") to get more help.
+  Email: edazpotato@gmail.com
+  
+  Twitter: [@Edazpotato](https://twitter.com/edazpotato)
+  
+  Discord: [Edaz#5671](https://discord.com/users/569414372959584256)
+  
+  Discord Server: [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=Edazpotato&theme=blueberry&count_private=true&hide_border=true&line_height=25&show_icons=true)
 <!--
 **edazpotato/edazpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
