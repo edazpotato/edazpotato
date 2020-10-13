@@ -16,7 +16,7 @@ My name is Edaz and I am a student who's intrested in programming
   
   Discord: [Edaz#5671](https://discord.com/users/569414372959584256)
   
-  Discord Server: [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
+  [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Edazpotato&theme=blueberry&count_private=true&hide_border=true&line_height=25&show_icons=true)
 <!--
