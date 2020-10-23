@@ -18,7 +18,7 @@ My name is Edaz and I am a student who's intrested in programming
   
   [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Edazpotato&theme=blueberry&count_private=true&hide_border=true&line_height=25&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Edazpotato&theme=blueberry&count_private=true&hide_border=true&line_height=25&show_icons=true)
 <!--
 **edazpotato/edazpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
