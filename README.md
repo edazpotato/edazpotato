@@ -1,9 +1,14 @@
-### Hey there 👋
+## 👋 Hey there
 
-My name is Edaz and I am a student who's intrested in programming
+I'm Edaz (Edazpotato) and I like coding things.
+
+Also I usually don't format my code.
+Or implement any optimizations.
+Or make anything original.
+You've been warned. 
 
   
-- 📫 How to reach me:
+### 📫 How to reach me:
 
   Email: edazpotato@gmail.com
   
