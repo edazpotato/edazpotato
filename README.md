@@ -1,4 +1,4 @@
-## 👋 Hey there
+### 👋 Hey there
 
 I'm Edaz (Edazpotato) and I like coding things.
 
