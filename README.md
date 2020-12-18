@@ -18,7 +18,7 @@ Here be Dragons.
   
   - Discord: [Edaz#5671](https://discord.com/users/569414372959584256)
   
-  [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
+    [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
   
 ![Edazpotato's github stats](https://github-readme-stats.vercel.app/api?username=edazpotato&show_icons=true&count_private=true&hide_border=true&theme=blueberry)
 ![Edazpotato's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edazpotato&count_private=true&hide_border=true&theme=blueberry)
