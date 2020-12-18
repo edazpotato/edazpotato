@@ -5,7 +5,9 @@ I'm Edaz (Edazpotato) and I like coding things.
 Also I usually don't format my code.
 Or implement any optimizations.
 Or make anything original.
-You've been warned. 
+Here be Dragons.
+
+***You've been warned***. 
 
   
 #### 📫 How to reach me
