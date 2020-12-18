@@ -1,12 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
 My name is Edaz and I am a student who's intrested in programming
 
-- 🔭 I’m currently working on
-  * A website for my school's commerce class.
-
-- 🌱 I’m currently learning
-  * React. I'm using it with Material-ui in the project above.
   
 - 📫 How to reach me:
 
