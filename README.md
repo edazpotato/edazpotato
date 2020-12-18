@@ -8,13 +8,13 @@ Or make anything original.
 You've been warned. 
 
   
-#### 📫 How to reach me:
+#### 📫 How to reach me
 
-  Email: edazpotato@gmail.com
+  - Email: edazpotato@gmail.com
   
-  Twitter: [@Edazpotato](https://twitter.com/edazpotato)
+  - Tweeter: [@Edazpotato](https://twitter.com/edazpotato)
   
-  Discord: [Edaz#5671](https://discord.com/users/569414372959584256)
+  - Discord: [Edaz#5671](https://discord.com/users/569414372959584256)
   
   [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
   
