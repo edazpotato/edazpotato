@@ -8,7 +8,7 @@ Or make anything original.
 You've been warned. 
 
   
-### 📫 How to reach me:
+#### 📫 How to reach me:
 
   Email: edazpotato@gmail.com
   
