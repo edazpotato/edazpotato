@@ -7,7 +7,7 @@ Or implement any optimizations.
 Or make anything original.
 Here be Dragons.
 
-***You've been warned***. 
+***You've been warned...***
 
   
 #### 📫 How to reach me
