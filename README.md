@@ -20,8 +20,8 @@ Here be Dragons.
   
     [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
   
-![Edazpotato's github stats](https://github-readme-stats.vercel.app/api?username=edazpotato&show_icons=true&count_private=true&hide_border=true&theme=blueberry)
-![Edazpotato's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edazpotato&count_private=true&hide_border=true&theme=blueberry)
+| ![Edazpotato's github stats](https://github-readme-stats.vercel.app/api?username=edazpotato&show_icons=true&count_private=true&hide_border=true&theme=blueberry) | ![Edazpotato's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edazpotato&layout=compact&count_private=true&hide_border=true&theme=blueberry) |
+| :---: | :---: |
 <!--
 **edazpotato/edazpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
