@@ -1,51 +1,44 @@
-### 👋 Hey there
 
-I'm Edaz (Edazpotato) and I like coding things.
+Hey. I see you've stumbled upon my github page somehow.... Congrats.
 
-Also I usually don't format my code.
-Or implement any optimizations.
-Or make anything original.
-Here be Dragons.
+What do you want an award or something? You here to scoff at how little contributions I've made to the GitHub repositories I am apart of?
 
-***You've been warned...***
+Well while you are here I might as well tell you stuff about me.
 
-  
-#### 📫 How to reach me
+Where to start, where to start....
 
-  - Email: edazpotato@gmail.com
-  
-  - Tweeter: [@Edazpotato](https://twitter.com/edazpotato)
-  
-  - Discord: [Edaz#5671](https://discord.com/users/569414372959584256)
-  
-    [![widget](https://inv.wtf/widget/edaz)](https://inv.wtf/edaz)
-  
-| ![Edazpotato's github stats](https://github-readme-stats.vercel.app/api?username=edazpotato&layout=compact&show_icons=true&count_private=true&hide_border=true&theme=blueberry) | ![Edazpotato's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edazpotato&layout=compact&count_private=true&hide_border=true&theme=blueberry) |
-| :---: | :---: |
-<!--
-**edazpotato/edazpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Uhh, I like turtles? Yeah that's right I like turtles. Pretty cool fact about me right? Turtles.
+(I'm talking about the ones from [computer craft](https://github.com/SquidDev-CC/CC-Tweaked) by the way.)
 
 
+```ts
+fetch("https://api.github.com/users/edazpotato/repos", {
+	headers: { Accept: "application/vnd.github.v3+json" },
+})
+	.catch(() => {})
+	.then((res) => res.json())
+	.catch(() => {})
+	.then((repos) =>
+		repos.map((repo) =>
+			console.log(
+				`Oh! I am also working on a project called [${repo.name}](${repo.html_url})... Yep very creative I know. Will probably change sooner or later. I'm just too stupid to come up with something right now.`
+			)
+		)
+	);
 
+// This code works by the way! Try it in your prowser console.
+```
+
+
+Uhh, I'm a person... I guess? What do people put in their own README files anyways?
+
+Well I'm pretty boring and I can tell you are bored reading this.
+
+Here are some other cool people you can check out: [TheModdedChicken](https://github.com/TheModdedChicken/TheModdedChicken) | [Archie](https://github.com/archiecodes) | [Grify](https://github.com/grify)
+
+They most likely have more interesting projects.
 
 
 
 
-
-
-
-
-
-🐉🐉
+(Blatenty stolen from [TheModdedChicken](https://github.com/TheModdedChicken/TheModdedChicken) >:))
