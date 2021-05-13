@@ -26,7 +26,7 @@ fetch("https://api.github.com/users/edazpotato/repos", {
 		)
 	);
 
-// This code works by the way! Try it in your prowser console.
+// This code works by the way! Try it in your browser console.
 ```
 
 
