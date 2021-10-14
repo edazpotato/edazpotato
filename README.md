@@ -15,16 +15,16 @@ Uhh, I like turtles? Yeah that's right I like turtles. Pretty cool fact about me
 fetch("https://api.github.com/users/edazpotato/repos", {
 	headers: { Accept: "application/vnd.github.v3+json" },
 })
-	.catch(() => {})
 	.then((res) => res.json())
-	.catch(() => {})
+    .catch(() => {})
 	.then((repos) =>
 		repos.map((repo) =>
 			console.log(
 				`Oh! I am also working on a project called [${repo.name}](${repo.html_url})... Yep very creative I know. Will probably change sooner or later. I'm just too stupid to come up with something right now.`
 			)
 		)
-	);
+	)
+    .catch(() => {});
 
 // This code works by the way! Try it in your browser console.
 ```
