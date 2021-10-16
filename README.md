@@ -8,10 +8,10 @@ Well while you are here I might as well tell you stuff about me.
 Where to start, where to start....
 
 Uhh, I like turtles? Yeah that's right I like turtles. Pretty cool fact about me right? Turtles.
-(I'm talking about the ones from [computer craft](https://github.com/SquidDev-CC/CC-Tweaked) by the way.)
+(I'm talking about the ones from [ComputerCraft](https://github.com/SquidDev-CC/CC-Tweaked) by the way.)
 
 
-```ts
+```js
 fetch("https://api.github.com/users/edazpotato/repos", {
 	headers: { Accept: "application/vnd.github.v3+json" },
 })
