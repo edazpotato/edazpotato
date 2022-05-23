@@ -1,1 +1,1 @@
-Account innactive.
+Account inactive.
